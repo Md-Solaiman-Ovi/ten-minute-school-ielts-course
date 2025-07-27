@@ -1,6 +1,6 @@
 # IELTS Course App
 
-A fully responsive web application for exploring IELTS preparation courses, built with **Next.js**, **React**, **TypeScript**, and **TailwindCSS**.  
+A fully responsive web application for exploring IELTS preparation courses, built with **React**, **TypeScript**, and **TailwindCSS**.  
 The app provides course details, exclusive features, media galleries, and more with a clean, modern UI.
 
 ---
@@ -21,7 +21,7 @@ The app provides course details, exclusive features, media galleries, and more w
 - **Exclusive Features Section**: Highlights unique benefits of the course.
 - **Media Gallery**: Shows images and videos related to the course.
 - **Responsive Design**: Optimized for mobile, tablet, and desktop.
-- **Fast & Optimized**: Built with Next.js for better SEO and performance.
+
 
 ---
 
@@ -29,7 +29,7 @@ The app provides course details, exclusive features, media galleries, and more w
 
 ### 1. Clone the repository
     git clone https://github.com/<your-username>/ielts-course-app.git
-    cd ielts-course-app
+    cd ten-minute-school-ielts-course
 
 ### 2. Install dependencies
     pnpm install
