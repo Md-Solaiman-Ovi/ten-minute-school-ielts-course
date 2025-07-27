@@ -28,7 +28,7 @@ The app provides course details, exclusive features, media galleries, and more w
 ## 🛠️ Getting Started
 
 ### 1. Clone the repository
-    git clone https://github.com/<your-username>/ielts-course-app.git
+    git clone https://git@github.com:Md-Solaiman-Ovi/ten-minute-school-ielts-course.git
     cd ten-minute-school-ielts-course
 
 ### 2. Install dependencies
