@@ -35,4 +35,4 @@ The app provides course details, exclusive features, media galleries, and more w
     pnpm install
 ### 3. Build for production
     pnpm build
-    pnpm start
+    pnpm run dev
