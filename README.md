@@ -28,9 +28,11 @@ The app provides course details, exclusive features, media galleries, and more w
 ## 🛠️ Getting Started
 
 ### 1. Clone the repository
-    ```bash
     git clone https://github.com/<your-username>/ielts-course-app.git
     cd ielts-course-app
 
 ### 2. Install dependencies
     pnpm install
+### 3. Build for production
+    pnpm build
+    pnpm start
