@@ -10,7 +10,7 @@ The app provides course details, exclusive features, media galleries, and more w
 - **Framework:** [Next.js](https://nextjs.org/) (React-based)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
 - **Styling:** [TailwindCSS](https://tailwindcss.com/)
-- **State Management:** React Hooks (and Context API if needed)
+- **State Management:** Redux-toolkit
 - **Package Manager:** [pnpm](https://pnpm.io/)
 
 ---
