@@ -33,5 +33,4 @@ The app provides course details, exclusive features, media galleries, and more w
     cd ielts-course-app
 
 ### 2. Install dependencies
-    ```bash
     pnpm install
